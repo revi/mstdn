@@ -1,4 +1,4 @@
-### 규칙
+## 규칙
 1.  [개자식처럼 굴지 마세요](https://asshole.fyi/ko/). 그러니까, 헛소리 하지 마세요. 다만, 헛소리 중에서도 다음 헛소리는 특히 금지됩니다. 헛소리의 판정은 문언 그 자체 뿐만 아니라 그 의도 또한 고려됩니다.
     - 다른 사람에 대한 모욕, 괴롭힘, 사칭, 명예 훼손
     - 인종, 성정체성, 성지향성, 성별, 장애 여부 등에 관한 비방, 중상.
@@ -17,7 +17,7 @@
     - 이용자, 운영자, 서버 소재지의 관할권에서 불법인 행위. 운영자의 관할권은 ‘대한민국’, 서버 소재지의 관할권은 ‘아메리카합중국’ (United States of America)의 연방법과 ‘뉴저지 주’ (State of New Jersey)법으로 정의됩니다.
     - 일회용 이메일을 사용하는 행위. 일회용 이메일을 사용하는 것이 적발되는 경우 계정은 즉시 정지되며, 이의제기는 인정되지 않습니다. [Fastmail Masked Email](https://www.fastmail.help/hc/en-us/articles/4406536368911-Masked-Email), [SimpleLogin](https://simplelogin.co) 등과 같이 계정 소유자의 메일함으로 직송되는 메일 포워딩 서비스는 메일이 배달되는 한 ‘일회용 이메일’로 간주하지 않습니다.
 
-### 운영 기조
+## 운영 기조
 
 이 서버는 본질적으로 서버 주인의 편의를 위해 운영되는 독재 서버입니다. 그러나 이 서버에는 간혹 다른 사용자가 입주할 수 있습니다. 어찌됐던간에, 이 서버에서의 조치에 대한 항고는 로컬 유저에 한해 제한적으로 인정되며, 그 외의 항고는 인정되지 않습니다.
 
@@ -34,3 +34,8 @@
 국가기관 등이 본 서버의 사용자 정보를 득하고자 하는 경우, 대한민국 법원이 발부한 적법한 영장을 통하여야만 가능합니다. 영장의 모사전송 등 방식으로는 영장 집행에 응할 수 없습니다. (대법원 2015도10648 판례 참조) 단, 사용자, 운영자의 생명, 재산 등에 대한 급박한 위험이 도래한 경우 영장 없이도 정보가 제공될 수 있습니다. 법관이 명시적으로 영장 발부 사실을 고지하지 못하도록 한 경우를 제외하고는, 영장의 집행 즉시 영장 집행 사실이 이용자에게 고지됩니다.
 
 If you are law enforcement and would like to obtain user data and/or other data held by this server, you must get a search warrant from the Court of Republic of Korea. We do not respond to request by other jurisdiction unless compelling emergency reason exists. Unless prohibited by the Search Warrant, we will notify the person in the warrant that their data has been provided.
+
+
+## 개정
+
+규칙의 개정 역사는 [GitHub](https://github.com/revi/mstdn/blob/master/rules.md) 에서 확인할 수 있습니다.
